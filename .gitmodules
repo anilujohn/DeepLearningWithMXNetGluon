@@ -1,3 +1,6 @@
 [submodule "GluonBootcamp"]
 	path = GluonBootcamp
 	url = https://github.com/cyrusmvahid/GluonBootcamp
+[submodule "facial-emotion-recognition-gluon"]
+	path = facial-emotion-recognition-gluon
+	url = https://github.com/nswamy/facial-emotion-recognition-gluon
